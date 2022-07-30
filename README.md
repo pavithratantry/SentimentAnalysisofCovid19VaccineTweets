@@ -52,5 +52,4 @@ Install 'sentimentanalysis' with npm
 
 ## Authors
 
-- Pavithra K Tantry 1GA18CS189
-- Nisha Bhat Balanja 1GA18CS192
+- Pavithra K Tantry
